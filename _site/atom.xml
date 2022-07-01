@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Patzka personal humblings</title>
- <link href="http://localhost:4000/blog/atom.xml" rel="self"/>
- <link href="http://localhost:4000/blog/"/>
- <updated>2022-06-29T23:10:19-03:00</updated>
- <id>http://localhost:4000</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2022-06-30T22:30:05-03:00</updated>
+ <id></id>
  <author>
    <name>Lenon Cristhians</name>
    <email>patzka@protonmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Difference between font formats</title>
-   <link href="http://localhost:4000/blog/2019/08/31/difference-between-font-formats"/>
+   <link href="/2019/08/31/difference-between-font-formats"/>
    <updated>2019-08-31T00:00:00-03:00</updated>
-   <id>http://localhost:4000/2019/08/31/difference-between-font-formats</id>
+   <id>/2019/08/31/difference-between-font-formats</id>
    <content type="html">&lt;h1 id=&quot;h1&quot;&gt;h1&lt;/h1&gt;
 
 &lt;h2 id=&quot;h2&quot;&gt;h2&lt;/h2&gt;
